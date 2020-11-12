@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.exe
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.deps.json
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.runtimeconfig.json
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.dll
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.pdb
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.AssemblyInfo.cs
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.dll
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.pdb
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.genruntimeconfig.cache

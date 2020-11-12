@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\bin\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.exe
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\bin\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.deps.json
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\bin\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.runtimeconfig.json
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\bin\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\bin\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.dll
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\bin\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.pdb
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.AssemblyInfo.cs
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.dll
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.pdb
+C:\Users\opilane\source\repos\DirectoriesAndFilesProgram\DirectoriesAndFilesProgram\obj\Debug\netcoreapp3.1\DirectoriesAndFilesProgram.genruntimeconfig.cache
